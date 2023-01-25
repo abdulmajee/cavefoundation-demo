@@ -1,0 +1,21 @@
+{
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.html",
+  "/api/hello": "pages/api/hello.js",
+  "/blog-details": "pages/blog-details.html",
+  "/blog": "pages/blog.html",
+  "/cause-details": "pages/cause-details.html",
+  "/cause": "pages/cause.html",
+  "/contact": "pages/contact.html",
+  "/donation": "pages/donation.html",
+  "/event-details": "pages/event-details.html",
+  "/event": "pages/event.html",
+  "/faq": "pages/faq.html",
+  "/": "pages/index.html",
+  "/mission": "pages/mission.html",
+  "/volunteer-details": "pages/volunteer-details.html",
+  "/volunteer": "pages/volunteer.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
